@@ -1,3 +1,5 @@
 I am in fourth
 I am in developer
 I am in design branch
+git branch -r 
+git checkout -b fourth origin/fourth
