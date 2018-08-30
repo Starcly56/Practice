@@ -2,5 +2,6 @@ I am in fourth
 I am in developer
 I am in design branch
 again changed the file from old to new
+automatically changed
 git branch -r 
 git checkout -b fourth origin/fourth
